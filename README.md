@@ -1,6 +1,13 @@
 ## Welcome!! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
-My name is Makmurriansyah Doni, you can find me on [Instagram](https://www.instagram.com/makmurriansyah).
+My name is Makmurriansyah, you can find me :
 
-<a href="https://github.com/Makmurriansyah/Makmurriansyah">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Makmurriansyah&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Makmurriansyah's GitHub Stats" />
-</a>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/makmurriansyah) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/makmurriansyah) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@makmurriansyah) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Makmurriansyah&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Makmurriansyah&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Makmurriansyah&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Makmurriansyah&theme=dark&no-frame=true&no-bg=true&margin-w=4)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
